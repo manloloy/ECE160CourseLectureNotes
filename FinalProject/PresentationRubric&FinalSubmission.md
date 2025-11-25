@@ -98,7 +98,8 @@ Students should be prepared to include on their slides:
 
 # Final Project Submission Requirements (ZIP Folder)
 
-Each team must submit a **single .zip file** containing all project files.  
+Each team must submit a **single .zip file** containing all project files including your presenation slides as a pdf.  
+
 Your submission must include the following:
 
 ### 1. Full Project Code  
@@ -121,7 +122,10 @@ Your `README.txt` must include:
 - A list of each team member and a brief description of the feature/module they implemented.  
 - This should match what each student presents during the presentation.
 
-### 3. Optional (Recommended)
+### 3. Presentation Slides
+- Include your presentation slides in pdf format in the folder.
+
+### 4. Optional (Recommended)
 - A short recorded demo video in the ZIP folder (useful when the program is large or fragile to run).  
 - Additional documentation or comments explaining design choices.
 
