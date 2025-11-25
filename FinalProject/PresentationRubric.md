@@ -25,24 +25,24 @@ This rubric evaluates both the **overall project** and each **individual student
 
 ---
 
-## 3. Code Discussion & Technical Depth — 40 points  
+## 3. Code Discussion & Technical Depth — 38 points  
 **This is the most important part of the presentation.**
 
 | Criteria | Points |
 |---------|--------|
-| Each student explains the code they wrote in detail, including functions, classes, logic, and structure | 15 |
+| Each student explains the code they wrote in detail, including functions, classes, logic, and structure | 13 |
 | Explanation of how the student’s code integrates with the rest of the team’s project | 10 |
 | Clear understanding of programming concepts used (loops, branching, functions, classes, inheritance, etc.) | 10 |
 | Ability to pull up code when asked and answer technical questions | 5 |
 
 ---
 
-## 4. Use of AI Tools & Reflection — 15 points
+## 4. Use of AI Tools & Reflection — 12 points
 | Criteria | Points |
 |---------|--------|
-| Student describes how AI tools (ChatGPT, Gemini, etc.) assisted development | 5 |
-| Examples of AI-generated code and how the student modified or improved it | 5 |
-| Reflection on challenges, debugging, what didn’t work, and what they learned | 5 |
+| Student describes how AI tools (ChatGPT, Gemini, etc.) assisted development | 4 |
+| Examples of AI-generated code and how the student modified or improved it | 4 |
+| Reflection on challenges, debugging, what didn’t work, and what they learned | 4 |
 
 ---
 
@@ -54,10 +54,10 @@ This rubric evaluates both the **overall project** and each **individual student
 
 ---
 
-## 6. Originality & Creativity — 5 points
+## 6. Rating — 10 points
 | Criteria | Points |
 |---------|--------|
-| Project is unique, thoughtful, and demonstrates ambition or personal interest | 5 |
+| Rate and give feedback to 4 other group's presentations. A Rating Form Will be provided | 10 |
 
 ---
 
@@ -66,10 +66,10 @@ This rubric evaluates both the **overall project** and each **individual student
 |----------|--------|
 | Presentation Structure & Clarity | 15 |
 | Project Demonstration | 15 |
-| Code Discussion & Technical Depth | **40** |
-| Use of AI Tools & Reflection | 15 |
+| Code Discussion & Technical Depth | 38 | 
+| Use of AI Tools & Reflection | 12 |
 | Team Collaboration | 10 |
-| Originality & Creativity | 5 |
+| Rating Other Groups | 10 |
 | **Total** | **100 points** |
 
 ---
