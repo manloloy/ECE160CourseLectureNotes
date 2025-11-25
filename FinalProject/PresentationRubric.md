@@ -1,0 +1,95 @@
+# Final Project Presentation Rubric  
+**Python Visual / Interactive Project**  
+**Total: 100 points**  
+**Presentation Length: 15–20 minutes per team**
+
+This rubric evaluates both the **overall project** and each **individual student’s contribution**, with heavier weight on **code discussion and understanding**.
+
+---
+
+## 1. Presentation Structure & Clarity — 15 points
+| Criteria | Points |
+|---------|--------|
+| Clear introduction to the project: title, goal, and summary | 5 |
+| Slides are organized, readable, and highlight key code sections | 5 |
+| Presentation is within 15–20 minutes and each student presents their portion | 5 |
+
+---
+
+## 2. Project Demonstration — 15 points
+| Criteria | Points |
+|---------|--------|
+| Smooth demo of the working project (live or recorded) | 5 |
+| Each student demonstrates their own feature/module | 5 |
+| Visual/interactive component clearly shown and explained | 5 |
+
+---
+
+## 3. Code Discussion & Technical Depth — 40 points  
+**This is the most important part of the presentation.**
+
+| Criteria | Points |
+|---------|--------|
+| Each student explains the code they wrote in detail, including functions, classes, logic, and structure | 15 |
+| Explanation of how the student’s code integrates with the rest of the team’s project | 10 |
+| Clear understanding of programming concepts used (loops, branching, functions, classes, inheritance, etc.) | 10 |
+| Ability to pull up code when asked and answer technical questions | 5 |
+
+---
+
+## 4. Use of AI Tools & Reflection — 15 points
+| Criteria | Points |
+|---------|--------|
+| Student describes how AI tools (ChatGPT, Gemini, etc.) assisted development | 5 |
+| Examples of AI-generated code and how the student modified or improved it | 5 |
+| Reflection on challenges, debugging, what didn’t work, and what they learned | 5 |
+
+---
+
+## 5. Team Collaboration — 10 points
+| Criteria | Points |
+|---------|--------|
+| Clear division of responsibilities among team members | 5 |
+| Each student’s module meaningfully contributes to the final project | 5 |
+
+---
+
+## 6. Originality & Creativity — 5 points
+| Criteria | Points |
+|---------|--------|
+| Project is unique, thoughtful, and demonstrates ambition or personal interest | 5 |
+
+---
+
+# Scoring Summary
+| Category | Points |
+|----------|--------|
+| Presentation Structure & Clarity | 15 |
+| Project Demonstration | 15 |
+| Code Discussion & Technical Depth | **40** |
+| Use of AI Tools & Reflection | 15 |
+| Team Collaboration | 10 |
+| Originality & Creativity | 5 |
+| **Total** | **100 points** |
+
+---
+
+# Student Expectations Checklist (for slides)
+Students should be prepared to include on their slides:
+
+- Project overview: title, goal, summary  
+- Visuals: screenshots or short demo clips  
+- Code excerpts they personally wrote  
+- Explanation of how their feature fits into the full project  
+- A slide on AI usage (what AI helped with, what they modified)  
+- Challenges, debugging, and lessons learned  
+- Preparedness to answer technical questions  
+- Backup: pre-recorded demo in case live demo fails  
+
+---
+
+# Instructor Notes
+- Students must be prepared to pull up any part of their code on request.  
+- Presentations should focus **more on code than visuals**.  
+- Each student is graded **individually**, even though the project is a team effort.  
+
