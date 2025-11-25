@@ -93,3 +93,38 @@ Students should be prepared to include on their slides:
 - Presentations should focus **more on code than visuals**.  
 - Each student is graded **individually**, even though the project is a team effort.  
 
+
+---
+
+# Final Project Submission Requirements (ZIP Folder)
+
+Each team must submit a **single .zip file** containing all project files.  
+Your submission must include the following:
+
+### 1. Full Project Code  
+- All Python files, assets, images, sounds, and supporting code needed to run the project.  
+- The code submitted must match the version demonstrated during the presentation.
+
+### 2. README.txt (required)
+Your `README.txt` must include:
+
+#### (a) Program Summary  
+- A clear description of what the program does.  
+- Explanation of the main features and visual/interactive components.
+
+#### (b) Setup & Run Instructions  
+- Step-by-step instructions for installing required libraries.  
+- Instructions for how to run the program from start to finish.  
+- Any folder structure notes or file paths needed.
+
+#### (c) Team Member Contributions  
+- A list of each team member and a brief description of the feature/module they implemented.  
+- This should match what each student presents during the presentation.
+
+### 3. Optional (Recommended)
+- A short recorded demo video in the ZIP folder (useful when the program is large or fragile to run).  
+- Additional documentation or comments explaining design choices.
+
+---
+
+
